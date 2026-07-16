@@ -38,7 +38,7 @@ The AI-Powered Customer Support Ticketing System is a Salesforce-based applicati
 - Shaik Mansoor
 - Shaik Munvar Basha
 - Syed Sirazuddin
-- Akash
+- Myla Akash Kiran 
 
 ## Future Enhancements
 - AI-powered case classification.
